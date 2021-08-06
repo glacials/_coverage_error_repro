@@ -1,0 +1,3 @@
+coverage==5.5
+pyarmor==6.7.2
+pytest==6.2.4
