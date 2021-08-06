@@ -1,3 +1,2 @@
-class Witness():
-    def testify(self):
-        pass
+def testify(self):
+    pass
