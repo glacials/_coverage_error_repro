@@ -1,6 +1,8 @@
 from .dist import witness 
 
-def test_func():
+# Needs to be run to trigger the error, but doesn't matter whether by the test
+# runner or another function
+def test_func(self):
     pass
 
 # Must be outside of a test function

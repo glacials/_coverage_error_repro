@@ -1,2 +1,0 @@
-def testify(self):
-    pass
